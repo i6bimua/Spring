@@ -12,45 +12,45 @@
 
 ###### Level 1：
 
-1. 以合适的交互方式呈现赛题:heavy_check_mark:
-2. 模拟比赛要求，支持用户以玩家的方式做题，提交答案并判断答案正误:heavy_check_mark:
-3. 内含5道以上的试题，支持用户选题作答:heavy_check_mark:
-4. 记录玩家答题的信息，比如用时、正确率、得分等，形成用户排行榜:heavy_check_mark:
+1. 以合适的交互方式呈现赛题 :heavy_check_mark:
+2. 模拟比赛要求，支持用户以玩家的方式做题，提交答案并判断答案正误 :heavy_check_mark:
+3. 内含5道以上的试题，支持用户选题作答 :heavy_check_mark:
+4. 记录玩家答题的信息，比如用时、正确率、得分等，形成用户排行榜 :heavy_check_mark:
 
 ###### Level 2：
 
-1. 可自动生成题目并判断玩家答案正误:heavy_check_mark:
-2. 支持用户自己创建题目并作答:heavy_check_mark:
-3. 可将新题保存到题库:heavy_check_mark:
-4. 形成多元的用户排行榜，比如单题最快，累计分数最高等:heavy_check_mark:
+1. 可自动生成题目并判断玩家答案正误 :heavy_check_mark:
+2. 支持用户自己创建题目并作答 :heavy_check_mark:
+3. 可将新题保存到题库 :heavy_check_mark:
+4. 形成多元的用户排行榜，比如单题最快，累计分数最高等 :heavy_check_mark:
 
 ###### Level 3：
 
-1. 可判断题目是否有解:heavy_check_mark:
+1. 可判断题目是否有解 :heavy_check_mark:
 
-2. 玩家答题过程中可以提示:heavy_check_mark:
+2. 玩家答题过程中可以提示 :heavy_check_mark:
 
    上面两个似乎纯acm内容，枚举+dfs+回溯
 
-3. 用户出题可解答:heavy_check_mark:
+3. 用户出题可解答 :heavy_check_mark:
 
-4. 可根据难度、盘面大小等参数灵活出题:heavy_check_mark:
+4. 可根据难度、盘面大小等参数灵活出题 :heavy_check_mark:
 
-5. 游戏以闯关等更丰富的形式进行:heavy_check_mark:
+5. 游戏以闯关等更丰富的形式进行 :heavy_check_mark:
 
 ###### Level 4：
 
-1. 更友好的操作界面和交互模式:heavy_check_mark:
+1. 更友好的操作界面和交互模式 :heavy_check_mark:
 
 2. 以赛题为背景，更多创意的比赛方式
 
-3. 支持双人对战或多人联网竞赛等:heavy_check_mark:
+3. 支持双人对战或多人联网竞赛等 :heavy_check_mark:
 
    做了tcp模拟拆包+粘包，设计了报文结构并且模拟了tcp的连接过程（四次握手）
 
    实时传输数据，双方可以看到对方的进度和时间
 
-4. 其他个性化发挥:heavy_check_mark:
+4. 其他个性化发挥 :heavy_check_mark:
 
    #### 一些展示
 
