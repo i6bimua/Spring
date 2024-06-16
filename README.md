@@ -2,9 +2,9 @@
 
 ### SCUT CPP大一实训作业--:deciduous_tree:植此青绿 
 
-![image-20240616194303977](README.assets\image-20240616194303977.png)
+![image-20240616194303977](README.assets/image-20240616194303977.png)
 
-![back2](README.assets\back2.png)
+![back2](README.assets/back2.png)
 
 :innocent:自己做的背景，是不是挺好看的捏
 
@@ -54,15 +54,15 @@
 
    #### 一些展示
 
-   ![image-20240616200828034](README.assets\image-20240616200828034.png)
+   ![image-20240616200828034](README.assets/image-20240616200828034.png)
 
-   ![image-20240616200311434](README.assets\image-20240616200311434.png)
+   ![image-20240616200311434](README.assets/image-20240616200311434.png)
 
-   ![image-20240616200338270](README.assets\image-20240616200338270.png)
+   ![image-20240616200338270](README.assets/image-20240616200338270.png)
 
-   ![image-20240616200548457](README.assets\image-20240616200548457.png)
+   ![image-20240616200548457](README.assets/image-20240616200548457.png)
 
-   ![image-20240616200617393](README.assets\image-20240616200617393.png)
+   ![image-20240616200617393](README.assets/image-20240616200617393.png)
 
    
 
