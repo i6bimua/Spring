@@ -68,7 +68,16 @@
 
 #### 选题是实训要求给定的，不是我想做这个类型的游戏 :sob::sob::sob:
 
-游戏本体在GWidget文件夹下面，对应的安装包在Spring.exe（已经打包好，下载就可以直接安装）
+游戏本体在GWidget文件夹下面
+具体的游戏内存太大github无法上传，想看一下的小伙伴可以点下面链接下载
+###### （1）
+链接：https://pan.baidu.com/s/1O7jChUNhmgSeCYWwRuAsFA?pwd=gnwl 
+提取码：gnwl 
+下载后进行解压得到的文件夹中直接双击GWidget.exe就可以开始游玩
+###### （2）
+链接：https://pan.baidu.com/s/1GoTLawUfXYyNUtrvMjmezw?pwd=6cu1 
+提取码：6cu1 
+是我打包好的安装程序，只需要下载后双击就可以自动安装啦
 
 #### :globe_with_meridians:联网对战的使用 
 
