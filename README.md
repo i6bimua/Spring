@@ -1,6 +1,6 @@
 # Spring
 
-### SCUT CPP大一实训作业--:deciduous_tree:植此青绿 
+### SCUT CPP大一实训作业-- :deciduous_tree: 植此青绿 
 
 ![image-20240616194303977](README.assets/image-20240616194303977.png)
 
