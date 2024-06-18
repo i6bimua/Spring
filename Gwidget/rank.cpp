@@ -333,7 +333,7 @@ void Rank::insertNewRecord(RankItem ps)
         return a.VicTimes > b.VicTimes;
     });
     //qDebug() << "wolegedou";
-    writeFileIntoJson (RankVec, "success.json");
+    writeFileIntoJson (RankVec, "./rank/success.json");
 }
 
 
@@ -352,7 +352,7 @@ void Rank::insertNewVicRecord(RankItem ps)
         return a.VicTimes > b.VicTimes;
     });
     //qDebug() << "wolegedou";
-    writeFileIntoJson (RankVec, "success.json");
+    writeFileIntoJson (RankVec, "./rank/success.json");
 }
 
 //加载RankVec
